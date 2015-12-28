@@ -1,0 +1,14 @@
+#summary Installing the application.
+
+= Introduction =
+
+I will quickly summarize how to install this app.
+
+
+= Details =
+
+  # Check out the source.
+  # Compile it in eclipse/JDK
+  # Copy the .class files & the property file to your home path.
+  # IF you want to move it somewhere else please modify the runscreen.sh first line to reflect the new path.
+  # Add the contents of crontab file to your crontab _(crontab -e)_
